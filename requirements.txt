@@ -1,0 +1,13 @@
+streamlit
+PyPDF2
+python-docx
+langdetect
+language-tool-python
+pandas
+scikit-learn
+transformers
+requests
+tqdm
+matplotlib
+seaborn
+plotly
